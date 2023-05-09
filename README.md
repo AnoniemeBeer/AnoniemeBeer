@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jorn Van Dijck</h1>
 <h3 align="center">Belgian full stack developer student.</h3>
 
-- 🌱 I’m currently learning **Laravel, React native**
+- 🌱 I’m currently learning **Spring, Laravel, PHP**
 
 - 🙇‍♂️ Busy on **full stack projects**
 
-- 🏫 Student **Application development/Artificial intelligence.**
+- 🏫 Student **Application development/Artificial intelligence**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
