@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorn Van Dijck</h1>
 <h3 align="center">Belgian full stack developer student.</h3>
 
-- 🌱 I’m currently learning **Spring, Laravel, PHP**
+- 🌱 I’m currently learning **K8S basics**
 
 - 🙇‍♂️ Busy on **full stack projects**
 
