@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/17988343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17988343" height="30" width="40" /></a><a href="https://www.linkedin.com/in/jorn-van-dijck-a08128259/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="17988343" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jorn-van-dijck-a08128259/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="17988343" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
