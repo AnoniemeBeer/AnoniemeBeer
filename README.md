@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jorn Van Dijck</h1>
 <h3 align="center">Belgian full stack developer student.</h3>
 
-- 🌱 I’m currently learning **K8S basics**
+- 🌱 I’m currently learning **K8S basics**, **AI Basics**
 
 - 🙇‍♂️ Busy on **full stack projects**
 
 - 🏫 Student **Application development/Artificial intelligence**
+
+- 🇧🇪🇫🇮 International student in Finland
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
