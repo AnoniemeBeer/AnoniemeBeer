@@ -7,7 +7,7 @@
 
 - 🏫 Graduate **Application development/Artificial intelligence** at Thomas More University
   
-- 🏫 Student **Application development** at Häme University of Applied Sciences
+- 🏫 Graduate **Application development** at Häme University of Applied Sciences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
