@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jorn Van Dijck</h1>
-<h3 align="center">Belgian full stack developer student.</h3>
+<h3 align="center">Belgian full stack developer Junior.</h3>
 
-- 🌱 I’m currently learning **K8S basics**, **Next.js**
+- 🌱 I’m currently learning **K8S**, **Next.js**, **Magic XPA**
 
-- 🙇‍♂️ Busy on **full stack projects**
+- 🙇‍♂️ Busy on **Improving AI skills**, **Constantly catching up with new tech**
 
 - 🏫 Graduate **Application development/Artificial intelligence** at Thomas More University
   
